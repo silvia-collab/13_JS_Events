@@ -1,1 +1,42 @@
 
+/* Headline*/
+h1{
+    font-size: 20px;
+}
+
+/*night*/
+body.night{
+    background-color: #222222;
+}
+
+h1.night {
+    color: white;
+}
+
+p.night{
+    color: white;
+}
+
+
+/* day */
+body.day{
+    background-color: #fdfdfd;
+}
+
+h1.day {
+    color: #222222;
+}
+
+p.day{
+    color: #222222;
+}
+
+
+/* Button*/
+button {
+    display: block;
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+}
+
